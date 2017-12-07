@@ -1,5 +1,4 @@
 properties([[$class: 'GithubProjectProperty', displayName: '', projectUrlStr: 'https://github.com/asureddy/task-7-jenkins.git/']])
-#!/usr/bin/env groovy
 pipeline {
   agent any 
 
